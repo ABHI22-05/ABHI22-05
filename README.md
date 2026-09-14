@@ -19,13 +19,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/05-abhi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/ABHI22-05/ABHI22-05/main/assets/linkedin.svg" alt="LinkedIn" width="34" height="34" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://abhishekjena.in" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/ABHI22-05/ABHI22-05/main/assets/portfolio.svg" alt="Portfolio" width="34" height="34" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:abhishekjavafs@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/ABHI22-05/ABHI22-05/main/assets/email.svg" alt="Email" width="34" height="34" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/ABHI22-05/ABHI22-05/main/assets/leetcode.svg" alt="LeetCode" width="34" height="34" />
   </a>
 </p>
 
@@ -37,17 +43,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nodejs,postgres,mysql,mongodb,redis,kafka,docker,aws,git,tailwind,html,css" />
   </a>
-</p>
-
-<br/>
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHI22-05&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhishek's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHI22-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ABHI22-05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
